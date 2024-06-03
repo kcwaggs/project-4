@@ -17,4 +17,5 @@ Our model was able to predict a song's danceability with 81.9% accuracy.
 
 ### Resources
 Kaggle, Chat GPT, class resources, etc. \
-Dataset: https://www.kaggle.com/datasets/viktoriiashkurenko/278k-spotify-songs?select=main_dataset.csv
+Dataset: https://www.kaggle.com/datasets/viktoriiashkurenko/278k-spotify-songs?select=main_dataset.csv \
+Presentation slides: https://docs.google.com/presentation/d/1kCljK9yE_UL3WgDXqj0c2GfbEvztWu-yVhXjH6NgX-8/edit#slide=id.g35f391192_00
