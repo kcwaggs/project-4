@@ -1,3 +1,4 @@
 Resources/main_dataset.csv filter=lfs diff=lfs merge=lfs -text
 resources/additional_attributes.csv filter=lfs diff=lfs merge=lfs -text
 resources/converted_file.sqlite filter=lfs diff=lfs merge=lfs -text
+resources/preprocessing.csv filter=lfs diff=lfs merge=lfs -text
