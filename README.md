@@ -2,7 +2,7 @@
 
 ## Overview
 
-We want to determine if a machine learning model can predict a song track’s danceability (from Spotify sourced data) based on several inputs such as song speed, tempo, valence, duration, etc.
+This project aims to predict the popularity and danceability of songs using various audio features extracted from a music dataset. The data includes attributes like danceability, energy, key, loudness, and more.
 
 ## Required Libraries and Tools
 
