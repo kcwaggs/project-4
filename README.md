@@ -1,6 +1,20 @@
 # project-4
 We want to determine if a machine learning model can predict a song track’s danceability (from Spotify sourced data) based on several inputs such as song speed, tempo, valence, duration, etc.
 
+## Required Libraries and Tools
+
+Ensure you have the following libraries installed. These are essential for data processing, model training, and evaluation:
+
+- **pandas**: For data manipulation and analysis.
+- **numpy**: For numerical operations.
+- **tensorflow**: For building and training the neural network model.
+- **scikit-learn**: For data preprocessing, model evaluation, and metrics.
+- **matplotlib**: For plotting graphs and visualizations.
+- **seaborn**: For statistical data visualization.
+- **sqlalchemy**: For database interactions.
+- **IPython**: For enhanced interactive Python, including display tools.
+
+
 ### Processing:
 
 1. First, download the [main_dataset.csv](resources/main_dataset.csv) from Kaggle as our core data and save into a resources folder.
