@@ -1,4 +1,7 @@
-# project-4
+# Music Popularity and Danceability Prediction (Project-4)
+
+## Overview
+
 We want to determine if a machine learning model can predict a song track’s danceability (from Spotify sourced data) based on several inputs such as song speed, tempo, valence, duration, etc.
 
 ## Required Libraries and Tools
