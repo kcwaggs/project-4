@@ -25,7 +25,7 @@ Ensure you have the following libraries installed. These are essential for data 
 
 ## Notes 
 Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable. \
-Our team also attempted to model for a song's popularity, and were unable to create a model that could predict popularity with meaningful predictability. \
+Our team also attempted to model for a song's popularity, and were unable to create a model that could predict popularity with meaningful predictability. 
 
 
 ## Results
