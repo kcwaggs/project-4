@@ -1,11 +1,13 @@
 # project-4
 We want to determine if a machine learning model can predict a song track’s danceability (from Spotify sourced data) based on several inputs such as song speed, tempo, valence, duration, etc.
 
-## Folders/Files
-We used the main_dataset.csv as our core data from kaggle. \
-To preprocess and clean the data, we did this in the test.ipynb file. \
-To query the dataset we utilized the sql.ipynb file. \
-To create the model, this was done in the datamodel_neuralnetwork_karen.ipynb file. \
+### Processing:
+
+1. We used the [main_dataset.csv](resources/main_dataset.csv) as our core data from Kaggle.
+2. To preprocess and clean the data, we used the [main_dataset_preprocessing.ipynb](./main_dataset_preprocessing.ipynb) file.
+3. To query the dataset, we utilized the [sql_conversion.ipynb](./sql_conversion.ipynb) file.
+4. To create the model, this was done in the [datamodel_neuralnetwork_karen.ipynb](./datamodel_neuralnetwork_karen.ipynb) file.
+
 
 ## Notes 
 Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable. \
