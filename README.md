@@ -54,7 +54,10 @@ Ensure you have the following libraries installed. These are essential for data 
 
 
 ## Results
-Our model was able to predict a song's danceability with 81.9% accuracy. 
+## Results Summary
+
+Despite trying different machine learning models like neural networks and RandomForestRegressor, and tweaking various settings like layers, neurons, optimizers, and learning rates, our analysis could not accurately predict popularity using the features and metrics pulled from the dataset. So, we shifted our focus to predicting danceability, which had a better correlation with the song features in our dataset. The True vs Predicted Danceability scatter plot showed a clear diagonal trend, meaning our model captured the general trend well. There was some spread and a few outliers, indicating where we could improve. The residuals distribution was centered around zero and looked like a normal distribution, showing that our model's predictions were generally reliable. Our model was able to predict a song's danceability with a **81.9% accuracy**. With further focus on danceability, such as adjusting outliers and processing accordingly, we could possibly predict danceability at a higher rate.
+
 
 ### Resources
 Kaggle, Chat GPT, class resources, etc. \
