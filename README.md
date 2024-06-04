@@ -3,7 +3,7 @@ We want to determine if a machine learning model can predict a song track’s da
 
 ### Processing:
 
-1. First, download the [main_dataset.csv](resources/main_dataset.csv) from Kaggle as our core data.
+1. First, download the [main_dataset.csv](resources/main_dataset.csv) from Kaggle as our core data and save into a resources folder.
 2. Next, preprocess and clean the data using the [main_dataset_preprocessing.ipynb](./main_dataset_preprocessing.ipynb) file.
 3. Then, query the dataset using the [sql_conversion.ipynb](./sql_conversion.ipynb) file.
 4. Finally, create the model using the [datamodel_neuralnetwork_karen.ipynb](./datamodel_neuralnetwork_karen.ipynb) file.
